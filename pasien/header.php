@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Praktikum 04</title>
+    <title>Project1</title>
 
     <!-- Google Font: Source Sans Pro -->
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700&display=fallback">
@@ -37,6 +37,12 @@
                 </li>
                 <li class="nav-item d-none d-sm-inline-block">
                     <a href="../periksa" class="nav-link">Periksa</a>
+                </li>
+                <li class="nav-item d-none d-sm-inline-block">
+                    <a href="../unitkerja" class="nav-link">Unitkerja</a>
+                </li>
+                <li class="nav-item d-none d-sm-inline-block">
+                    <a href="../users" class="nav-link">Users</a>
                 </li>
             </ul>
 
